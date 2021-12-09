@@ -1,1 +1,1 @@
-react-random-person-mini-project.netlify.app
+project  hosted at  react-random-person-mini-project.netlify.app
